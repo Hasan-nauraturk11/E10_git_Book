@@ -5,3 +5,5 @@ Java is also free for development: developers can find all the development kits 
 
 Why should I upgrade to the latest Java patch each quarter when prompted?
 The latest Java patches contain important enhancements to improve performance, stability and security of the Java applications that run on your machine. Installing these updates will ensure that your Java applications continue to run with the most up-to-date version.
+
+Low price let enforces people to change other place to move
